@@ -1,6 +1,6 @@
 # Veezy Stats
 
-(https://github.com/user-attachments/assets/1cb4d711-eda7-42bd-8e64-13b7d69b5a85)
+https://github.com/user-attachments/assets/1cb4d711-eda7-42bd-8e64-13b7d69b5a85
 <!-- <<< Replace with a link to an actual screenshot! -->
 
 A minimalist, lightweight system performance overlay widget for Windows, built with C++, DirectX 11, and Dear ImGui.
